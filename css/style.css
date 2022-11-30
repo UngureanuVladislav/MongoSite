@@ -1,9 +1,9 @@
 body {
     margin: 0;
-    font-family: 'Mosterrat', sans-serif;
+    font-family: 'Rubik', sans-serif;
         margin: 0 auto;
         text-align: center;
-         font-family: 'Kaushan Script';
+         font-family: 'Rubik', sans-serif;
           
 }
 
@@ -62,8 +62,8 @@ h1, h2, h3, h4, h5, h6{
     background-color: brown;
 }
 .intro_suptitle {
-    font-family: 'Kaushan Script',
-    cursive;
+    font-family: 'Rubik', sans-serif;
+    
     font-size: 72px;
     color: brown;
     text-align: center;
@@ -209,8 +209,8 @@ color: rgb(0, 0, 0);
 }
 
 .section_suptitle {
-    font-family: 'Kaushan Script',
-    cursive;
+    font-family: 'Rubik', sans-serif;
+    
     font-size: 24px;
     color: brown;
 }
@@ -241,6 +241,7 @@ color: rgb(0, 0, 0);
     margin-top: 80px;
     display: flex;
     justify-content: space-between;
+    margin-left: -25px;
 }
 
 .about_item {
